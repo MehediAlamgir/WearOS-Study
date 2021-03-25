@@ -14,7 +14,7 @@
         app:layout_box="all">
 
         <TextView
-            android:id="@+id/tv_longtext"
+            android:id="@+id/title_text"
             android:layout_width="match_parent"
             android:layout_height="0sp"
             android:layout_weight="1"
@@ -25,7 +25,7 @@
             android:textSize="16sp" />
 
         <TextView
-            android:id="@+id/tv_question"
+            android:id="@+id/dialog_question"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif-condensed"
